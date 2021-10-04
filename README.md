@@ -1,6 +1,9 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jin's%20github&fontSize=90)
 
+🛠 Tech Stack 🛠
+
+Techs that I've used at least once
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/ajinjo)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=black)](github.com/ajinjo)
@@ -15,6 +18,7 @@
 [![AWS](https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AWS&logoColor=black)](github.com/ajinjo)
 [![photoshop](https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=Photoshop&logoColor=black)](github.com/ajinjo)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fajinjo%2Fhit-counter&count_bg=%23F28AAF&title_bg=%23B3A610&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!--
 **ajinjo/ajinjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
