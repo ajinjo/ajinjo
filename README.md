@@ -17,6 +17,7 @@ Techs that I've used at least once
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=black)](github.com/ajinjo)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](github.com/ajinjo)
 [![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MTSQL&logoColor=white)](github.com/ajinjo)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)](github.com/ajinjo)
 [![MD](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)](github.com/ajinjo)
 [![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)](github.com/ajinjo)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)](github.com/ajinjo)
