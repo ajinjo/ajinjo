@@ -1,7 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jin's%20github&fontSize=90)
 <div align=center>
-  ### Hi there 👋
+
+Hi there 👋
   
   
 ❣️ Tech Stack ❣️
