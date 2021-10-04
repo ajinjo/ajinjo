@@ -23,6 +23,9 @@ Techs that I've used at least once
 [![AWS](https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AWS&logoColor=black)](github.com/ajinjo)
 [![photoshop](https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=Photoshop&logoColor=black)](github.com/ajinjo)
 
+  
+  ✋
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fajinjo%2Fhit-counter&count_bg=%23F28AAF&title_bg=%23B3A610&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
 <!--
